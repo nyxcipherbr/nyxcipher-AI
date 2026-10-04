@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.venv/
+
+# Arquivos temporários e de mídia gerados
+temp/
+output/
+*.mp4
+*.mp3
+*.wav
+*.srt
+*.lrc
+
+# Binários locais e caches de modelos
+bin/
+.cache/
+models/
+huggingface/
+
+# IDE e logs
+.vscode/
+.idea/
+*.log
+.DS_Store
